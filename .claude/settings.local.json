@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(github-buddy)",
+      "Bash(git init:*)"
+    ]
+  }
+}
